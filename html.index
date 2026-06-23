@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page Kece</title>
+  
+  <script>
+    // ====== EDIT 4 INI DOANG BRO ======
+    const CONFIG = {
+      foto: "https://res.cloudinary.com/daxme62nv/image/upload/v1782213217/bicz64f7igcgmxab8lur.jpg", //
+      judul: "🎥 NEW COLLECTION GALLERY 18+",              //  
+      subJudul: "Free and Fun 🔥 ",  //
+      smartlink: "https://vvip-room.fun/rZpoHEg6Fonum8A3Sy8q4IMf7rpw4Qq4"        //
+    };
+    // ====== UDAH, SISANYA JANGAN DIUTAK-ATIK ======
+  </script>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+    
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      color: #e2e8f0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 1.5rem;
+    }
+    
+    .card {
+      max-width: 450px;
+      width: 100%;
+      background: rgba(30, 
